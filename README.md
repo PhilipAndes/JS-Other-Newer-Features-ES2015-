@@ -26,6 +26,6 @@ Files: index.v3 + app.v3.js
 ES6 Maps.<br>
 Files: index.v4 + app.v4.js
 
-6. Lesson 6:<br> 
+6. Lesson 6:<br>  
 ES6 Sets.<br>
 Files: index.v5 + app.v5.js 
