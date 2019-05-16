@@ -10,8 +10,9 @@ Files: index.v1 + app.v1.js
 
 Lesson 2:<br
 Profile Scroller - Iterator Mini Project.<br
-Made a new repo for the project, see:
-<link>
+Made a new repo for the project, see: <br>
+https://github.com/PhilipAndes/JavaScript-Profile-Scroller-Iterator-Mini-Project
+
 
 Lesson 3:<br
 Symbols.<br
