@@ -22,7 +22,7 @@ Files: index.v2 + app.v2.js
 Destructuring.<br>
 Files: index.v3 + app.v3.js
 
-5. Lesson 5:<br> 
+5. Lesson 5:<br>  
 ES6 Maps.<br>
 Files: index.v4 + app.v4.js
 
